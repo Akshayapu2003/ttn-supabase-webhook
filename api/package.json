@@ -1,0 +1,14 @@
+{
+  "name": "ttn-supabase-webhook",
+  "version": "1.0.0",
+  "description": "Webhook to forward TTN data to Supabase",
+  "main": "index.js",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.21.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
